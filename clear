@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3f18715..ea8c3b9 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,7 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[32m+[m[32m    <p>hello github<b></b>dont click</b></p>[m
+     <p>hello github <button>click me</button></p>[m
+     <p>hello git 2nd</p>[m
+ </body>[m
